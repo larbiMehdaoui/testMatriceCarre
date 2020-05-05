@@ -4,16 +4,25 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="index.css" />
 </head>
 <body>
     <form action="matrix.html" method="GET">
-        <label for="">Nombre de Lignes</label>
-        <input name="nbColumns" value="" />
+       
+
+        <fieldset>
+            <legend>Dimensions de la Matrice</legend>
+            <label for="">Nombre de Lignes<em>*</em></label>
+            <input name="nbColumns" value="" autofocus="" required=""pattern="\d{1,5}"  
+            maxlength="5"/>
+        </br>
+        <label for="">Nombre de Columns <em>*</em></label>
+            <input name="nbRows" value=""  autofocus="" required="" pattern="\d{1,5}"  
+            maxlength="5" />
     </br>
-    <label for="">Nombre de Columns </label>
-        <input name="nbRows" value="" />
-</br>
-        <input type="submit" value="Send data">
+            
+          </fieldset>
+          <p><input type="submit" value="Soummettre"></p>
       </form>
     <script>
 
