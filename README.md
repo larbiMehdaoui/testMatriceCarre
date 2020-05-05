@@ -1,14 +1,4 @@
-Bonjour Monsieur MEHDAOUI,
 
- 
-
-Je fais suite à notre conversation téléphonique de ce matin et comme convenu je vous transmets ci-après le test technique qui rentre dans le cadre de notre processus de recrutement pour le poste Développeur Web Full Stack NodeJS.
-
- 
-
-Vous nous faites un retour à votre convenance soit en format archive (zip) soit via un dépôt github ou autre.
-
- 
 
 Enoncé du test :
 
@@ -22,23 +12,3 @@ Enoncé du test :
 
  
 
-Utilisez une stack technique web HTML,CSS,JS.
-
-Vous pouvez également vous faire aider par un framework (Angular de préférence).
-
- 
-
-Pour toute question,  n’hésitez pas à me contacter par email ou par téléphone au 06.06.43.42.63.
-
- 
-
-Cordialement
-
- 
-Abdelghani BOUZIANE​
-Software Developement Engineer
- 
-Tel : 	+33 1 55 37 30 50
-25, rue Balzac ‑ 75008 Paris
-www.vocalcom.com
-v
